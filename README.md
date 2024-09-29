@@ -1,18 +1,18 @@
+# Login System
 
 This project is a simple login system developed using HTML, CSS, JavaScript, and Firebase for the backend. It allows users to register for an account, log in, and log out securely.
 
-Features
--User registration: Users can create a new account by providing their email address and password.
--User authentication: Once registered, users can log in using their email and password combination.
--Password hashing: User passwords are securely hashed before being stored in the database using Firebase Authentication.
--Session management: Firebase manages user sessions securely, ensuring that users remain logged in until they choose to log out.
--Responsive design: The login interface is designed to be responsive, providing a consistent experience across different devices and screen sizes.
+## Features
+- **User registration**: Users can create a new account by providing their email address and password.
+- **User authentication**: Once registered, users can log in using their email and password combination.
+- **Password hashing**: User passwords are securely hashed before being stored in the database using Firebase Authentication.
+- **Session management**: Firebase manages user sessions securely, ensuring that users remain logged in until they choose to log out.
+- **Responsive design**: The login interface is designed to be responsive, providing a consistent experience across different devices and screen sizes.
 
-Installation
+## Installation
 Clone the repository to your local machine:
 
-bash
-Copy code
+```bash
 git clone https://github.com/yourusername/login-project.git
 Navigate to the project directory:
 
